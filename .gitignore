@@ -1,0 +1,23 @@
+# Binaries
+/bin/
+
+# Data
+/data/
+/testdata
+
+# Temporary Go build files
+*.o
+*.a
+*.so
+
+# Dependency directories (if vendoring is used)
+/vendor/
+
+# OS-specific files
+.DS_Store
+
+# Editor-specific files
+*.swp
+*.swo
+.idea/
+*.code-workspace
